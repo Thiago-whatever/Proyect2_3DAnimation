@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638376624331684502
-    m_Hash: 2883007450
+      ticks: 638376640166695176
+    m_Hash: 3206376758
   m_LockFileStatus:
     m_FilePath: C:/Users/Djcho/OneDrive/Documentos/Repositorios/Proyect2_3DAnimation/Proyecto2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638376624331791045
-    m_Hash: 1810804472
+      ticks: 638376640166695176
+    m_Hash: 530177544
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
