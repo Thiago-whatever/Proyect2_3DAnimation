@@ -1,0 +1,13 @@
+# Blender 3.5.1 MTL File: 'Halloween_Pumpkin.blend'
+# www.blender.org
+
+newmtl halloween_pumpkins
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/shaos/OneDrive/Рабочий стол/Chars 22 Models/Pumpkin Halloween/Blender/Textures/halloween_pumpkins_d.png
+map_d C:/Users/shaos/OneDrive/Рабочий стол/Chars 22 Models/Pumpkin Halloween/Blender/Textures/halloween_pumpkins_d.png
+map_Bump -bm 1.000000 C:/Users/shaos/OneDrive/Рабочий стол/Chars 22 Models/Pumpkin Halloween/Blender/Textures/halloween_pumpkins_n.png
