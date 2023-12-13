@@ -18,8 +18,8 @@ public class PanelInteractivity : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        lightsInfoText.text = ""; // Limpiar el texto
-        lightsInfoText.text = "Información de las luces: \n";
+        lightsInfoText.text = "";
+        lightsInfoText.text += "Información de las luces: \n";
 
         foreach (Light light in lights)
         {
