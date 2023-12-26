@@ -21,4 +21,8 @@ This 3D animation project, developed within Unity for the Computer Graphics cour
 6. Deployment:
     The project should be executable without the need to have Unity open, functioning as a standalone desktop application.
 
+
+The executable application file can be found within the repository in the [EjecutableProyecto3D](https://github.com/Thiago-whatever/Proyect2_3DAnimation/tree/main/EjecutableProyecto3D) folder, named 'Proyecto2_GraficasPorComputadora.exe'. Anyone can download this file to run the application seamlessly on their system.
+
+
 Feel free to customize and expand upon this further as needed!
